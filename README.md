@@ -7,6 +7,6 @@ Kaggle의 Titanic 생존자 예측
 
 www.kaggle.com/startupsci/titanic-data-science-solutions
 
-todo-data.tistory.com/3
+https://todo-data.tistory.com/3
 
-data-science-note.tistory.com/4
+https://data-science-note.tistory.com/4

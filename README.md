@@ -17,7 +17,7 @@ https://www.kaggle.com/c/titanic/
 > #### 타이타닉 머신러닝 모델.pdf(by [CodeDiary18](https://github.com/CodeDiary18))
 > : 예측에 사용되는 머신러닝 모델에 대해 간단히 정리한 pdf
 
-> #### Titanic 생존자 예측_team.ipynb(by [Kwonjimin](https://github.com/Kwonjimin))
+> #### Titanic 생존자 예측_team.ipynb
 > : 팀원 전체 정리본
 
 

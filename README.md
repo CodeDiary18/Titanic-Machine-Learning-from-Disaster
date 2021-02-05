@@ -17,5 +17,7 @@
 
 ### 참고 : 
 > www.kaggle.com/startupsci/titanic-data-science-solutions
+
 > https://todo-data.tistory.com/3
+
 > https://data-science-note.tistory.com/4

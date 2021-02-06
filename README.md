@@ -23,7 +23,7 @@ https://www.kaggle.com/c/titanic/
 > #### Titanic 생존자 예측_team.ipynb
 > : 팀원 전체 정리본
 
-> #### 발표.pdf
+> #### 팀 발표.pdf
 > : 팀 발표 pdf
 
 ## 참고

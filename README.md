@@ -11,6 +11,9 @@ https://www.kaggle.com/c/titanic/
 
 
 ## File introduction
+> #### titanic 폴더
+> : Data set
+
 > #### Titanic 생존자 예측.ipynb(by [CodeDiary18](https://github.com/CodeDiary18))
 > : 혼자 정리한 jupyter notebook
 
